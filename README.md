@@ -25,7 +25,7 @@ This analysis highlights that factors often overlooked in HDB pricing, such as t
 - **Language**: Python
 - **Algorithm**: Random Forest Regression
 - **Packages**: Pandas, Numpy, Scikit-learn
-- **Data compatibility**: Please use the model with data from 2017 onwards
+- **Data compatibility**: Please use the model with data from 2017 onwards: Courtesy of the 'Singapore Open Data License'. [Data](https://data.gov.sg/datasets?topics=housing&resultId=189&page=1)
 
 ## Disclaimer
 
