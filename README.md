@@ -18,3 +18,12 @@ This analysis highlights that factors often overlooked in HDB pricing, such as t
 - **Buyers** to gauge reasonable prices for resale flats
 - **Sellers** adjust their selling prices based on market factors
 - **All parties** At its core, it can help to enable all stakeholders to make better decisions and reduce the information assymetry/discourage buyers and sellers from 'trying their luck' in price negotiations
+
+##Technical Details
+Language: Python
+Algorithm: Random Forest Regression
+Packages: Pandas, Numpy, Scikit-learn
+Data compatibility: Please use the model presented from 2017 onwards
+
+##Disclaimer
+Do note that in the future, the data from data.gov.sg will  change and this model may not be appropriate for periods beyond 2025/2026 due to ever-evolving market conditions and government policy. Also, please do not use this as financial advise or for price speculation beyond 2025.
