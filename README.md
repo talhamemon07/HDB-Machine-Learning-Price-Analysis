@@ -4,7 +4,7 @@ This project enables one to predict HDB prices based on factors like location, f
 
 ## Key Findings
 
-Fascinating insights can be drawn by how the algorithm weighs the various factors below on the influence they have on market pricing:
+Fascinating insights can be drawn by how the algorithm weighs the various factors below on the influence they have on market pricing. Here was my outcome:
 
 - **Town**: 24.2%
 - **Flat Type**: 3.5%
