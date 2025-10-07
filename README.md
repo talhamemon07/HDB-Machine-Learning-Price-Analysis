@@ -1,4 +1,4 @@
-This project enables you to predict HDB prices based on factors like location, flat type, flat size and its lease commencement date. 
+This project enables one to predict HDB prices based on factors like location, flat type, flat size and its lease commencement date. 
 It also weighs these factors and their importance in determining HDB pricing. 
 Town:24.2%
 Flat Type:3.5%
